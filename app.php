@@ -1,1 +1,3 @@
+<?php
+
 /* logika aplikacji */
