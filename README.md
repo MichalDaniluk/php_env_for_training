@@ -17,5 +17,9 @@ index.php - Tutaj tworzymy logike naszego zadania.
 example.php - Tutaj tworzymy logike pomocniczą do realizacji danego zadania tak zwane "Utlity"
 Gdy uznasz, że zadanie jest gotowe na przetestowanie logiki przejdź do przeglądarki i odśwież stronę
 
+W instalacji XAMPP (gdzie są pliki dokumentów) utwórz nowy katalog dla swojej aplikacji, np. app.
+Możesz przenieść tam trzy pliki z rozszenierzem php.
+Przejdź do przeglądarki i wpisz adres: http://127.0.0.1/app pod tym adresem jest twoja aplikacja.
+
 # Podsumowanie
 Strukture zadania możesz oczywiście dowolonie zmienić dodając kolejne foldery jako taski i wywołując je w index.php
