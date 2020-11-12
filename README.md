@@ -8,4 +8,14 @@ Poniżej znajduję się krótka instrukcja jak rozpocząć pracę.
 Zainstaluj na swoim komputerze środowisko uruchomieniowe XAMPP (Windows, Linux, OS X)
 Podczas instalacji XAMPP nie instaluj języka Perl
 
-Kiedy wszystko będzie gotowe, uruchom Apache oraz Mysql
+Kiedy wszystko będzie gotowe, uruchom Apache w panelu XAMPP
+Pod adresem http://127.0.0.1
+
+# Modularna struktura zadania
+app.php - Tutaj tworzymy logike działania z zadaniem.
+index.php - Tutaj tworzymy logike naszego zadania.
+example.php - Tutaj tworzymy logike pomocniczą do realizacji danego zadania tak zwane "Utlity"
+Gdy uznasz, że zadanie jest gotowe na przetestowanie logiki przejdź do przeglądarki i odśwież stronę
+
+# Podsumowanie
+Strukture zadania możesz oczywiście dowolonie zmienić dodając kolejne foldery jako taski i wywołując je w index.php
